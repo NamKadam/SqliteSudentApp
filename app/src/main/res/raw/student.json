@@ -1,0 +1,34 @@
+{
+  "Student": [
+    {
+      "name": "Damini",
+      "roll_no": "1",
+      "age": "14",
+      "class": "6th A"
+    },
+    {
+      "name": "Shivani",
+      "roll_no": "2",
+      "age": "15",
+      "class": "7th B"
+    },
+    {
+      "name": "Arya",
+      "roll_no": "3",
+      "age": "15",
+      "class": "7th C"
+    },
+    {
+      "name": "Rahul",
+      "roll_no": "4",
+      "age": "16",
+      "class": "8th B"
+    },
+    {
+      "name": "Reshma",
+      "roll_no": "5",
+      "age": "16",
+      "class": "8th D"
+    }
+  ]
+}
